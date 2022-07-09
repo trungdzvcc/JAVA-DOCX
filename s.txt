@@ -1,0 +1,31 @@
+Giới thiệu bản thân bằng tiếng Anh trong 1 phút
+
+-       Lập trình hướng đối tượng (4 tính chất, ví dụ minh họa);
+
+-       Các thuật toán sắp xếp. tìm kiếm & các giải thuật cơ bản.
+
+-       Phân biệt Abstract – Interface; Nạp chồng/ghi đè; Array – Array list; List/Set/Map
+
+-       Phân biệt String, string builder – buffer;
+
+-       Phân biêt các từ khóa: private, protected, public; 
+
+-       Collection trong Java:  ArrayList vs List,Linkedlist; Sort; Comparable vs comparator
+
+-       Thread: cách tạo, wait()/notify()
+
+-        Encapsulation: hiểu về getter/setter.  Hiểu cơ bản các access modifier.
+
+-       Exception: try..catch, finally
+
+-       Phân biệt: Lệnh try/catch/throw/finally; this/super; static/final
+
+-       DB: Các lệnh Join (phân biệt: InnerJoin/ OutnerJoin; Left join/ right join); Group by; Having; subquery; Stored procedure vs udf; trigger; Thực thể; ERD; …
+
+-       Kinh nghiệm làm việc (tại các bài tập lớn, các dự án cá nhân, quá trình thực tập,…): nêu rõ vị trí, vai trò trong dự án, các phần nội dung công việc đảm nhận.
+
+-       Định hướng công việc theo đuổi
+
+-       Chuẩn bị các câu hỏi / thắc mắc về vị trí công việc, môi trường làm việc… trong tương lai và đề nghị anh/chị phỏng vấn giải đáp.
+
+-       Tiếng Anh: chuẩn bị TA giao tiếp ( giới thiệu bản thân, quá trình học tập, làm việc, định hướng..), đọc hiểu tài liệu
